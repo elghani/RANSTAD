@@ -1,0 +1,2090 @@
+/* screen - pop-up-candidature-l-agence-maquette */
+
+.pop-up-candidature-l-agence-maquette {
+  background-color: var(--user-interface-colorswhite);
+  height: 738px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1366px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-5-9YyHAs {
+  background-color: transparent;
+  height: 30px;
+  left: 1125px;
+  position: absolute;
+  top: 46px;
+  width: 141px;
+}
+
+.pop-up-candidature-l-agence-maquette .mon-espace-3Lxh6b {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-1-3Lxh6b {
+  background-color: transparent;
+  border-radius: 50px;
+  height: 30px;
+  left: 111px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.pop-up-candidature-l-agence-maquette .ja-SChuYH {
+  background-color: transparent;
+  height: 14px;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .logorandstad-1-9YyHAs {
+  background-color: transparent;
+  height: 27px;
+  left: 101px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 39px;
+  width: 178px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-1-9YyHAs {
+  background-color: transparent;
+  height: 19px;
+  left: 398px;
+  position: absolute;
+  top: 53px;
+  width: 388px;
+}
+
+.pop-up-candidature-l-agence-maquette .candidats-wFDR8J {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .recruteurs-wFDR8J {
+  background-color: transparent;
+  height: auto;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .nos-agences-wFDR8J {
+  background-color: transparent;
+  height: auto;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .covid-19-wFDR8J {
+  background-color: transparent;
+  height: auto;
+  left: 329px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .line-1-9YyHAs {
+  background-color: transparent;
+  height: 1px;
+  left: 100px;
+  position: absolute;
+  top: 86px;
+  width: 1166px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-4-9YyHAs {
+  background-color: transparent;
+  height: 12px;
+  left: 1050px;
+  position: absolute;
+  top: 11px;
+  width: 201px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-2-iUAJ7O {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 73px;
+}
+
+.pop-up-candidature-l-agence-maquette .eye-nbx8iT {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.pop-up-candidature-l-agence-maquette .accessibilit-nbx8iT {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .line-3-iUAJ7O {
+  background-color: transparent;
+  height: 10px;
+  left: 84px;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-iUAJ7O {
+  background-color: transparent;
+  height: 12px;
+  left: 97px;
+  position: absolute;
+  top: 0px;
+  width: 104px;
+}
+
+.pop-up-candidature-l-agence-maquette .group-1-WzyGxJ {
+  background-color: transparent;
+  height: 9px;
+  left: -0px;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.pop-up-candidature-l-agence-maquette .groupe-randstad-WzyGxJ {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .group-72-9YyHAs {
+  background-color: transparent;
+  height: 1316px;
+  left: 0px;
+  position: absolute;
+  top: 87px;
+  width: 1366px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-53-ZErqm2 {
+  background-color: var(--brand-colorbrand-secondary);
+  height: 358px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1366px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-QAIQMU {
+  background-color: transparent;
+  height: 29px;
+  left: 99px;
+  position: absolute;
+  top: 60px;
+  width: 1168px;
+}
+
+.pop-up-candidature-l-agence-maquette .quelques-chiffres-de-J7yh1B {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-28-QAIQMU {
+  background-color: transparent;
+  height: 149px;
+  left: 0px;
+  position: absolute;
+  top: 149px;
+  width: 1366px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-27-xiEo0u {
+  background-color: transparent;
+  height: 149px;
+  left: 274px;
+  position: absolute;
+  top: 0px;
+  width: 162px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-0vw76e {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 44.27px;
+  height: 82px;
+  left: 41px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.pop-up-candidature-l-agence-maquette .x10-KEsSTn {
+  background-color: transparent;
+  height: 38px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 38px;
+}
+
+.pop-up-candidature-l-agence-maquette .candidatures-envoyes-0vw76e {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 96px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-52-0vw76e {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 127px;
+  width: 162px;
+}
+
+.pop-up-candidature-l-agence-maquette .tu-es-sur-une-bonne-lance-QxnjxH {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-30-xiEo0u {
+  background-color: transparent;
+  height: 149px;
+  left: 516px;
+  position: absolute;
+  top: 0px;
+  width: 165px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-zd2J4N {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 44.27px;
+  height: 82px;
+  left: 42px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.pop-up-candidature-l-agence-maquette .x3-ZtQUhd {
+  background-color: transparent;
+  height: 38px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 38px;
+}
+
+.pop-up-candidature-l-agence-maquette .candidatures-lues-zd2J4N {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 96px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-52-zd2J4N {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 127px;
+  width: 165px;
+}
+
+.pop-up-candidature-l-agence-maquette .on-croise-les-doigts-pour-toi-b0xyfx {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-31-xiEo0u {
+  background-color: transparent;
+  height: 149px;
+  left: 760px;
+  position: absolute;
+  top: 0px;
+  width: 139px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-Nfak0p {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 44.27px;
+  height: 82px;
+  left: 29px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.pop-up-candidature-l-agence-maquette .x2-pTVWJX {
+  background-color: transparent;
+  height: 38px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 38px;
+}
+
+.pop-up-candidature-l-agence-maquette .candidatures-refuses-Nfak0p {
+  background-color: transparent;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 96px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-52-Nfak0p {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 127px;
+  width: 139px;
+}
+
+.pop-up-candidature-l-agence-maquette .ne-te-dcourages-pas-yzRe5M {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-29-xiEo0u {
+  background-color: transparent;
+  height: 149px;
+  left: 980px;
+  position: absolute;
+  top: 0px;
+  width: 113px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-25-8zE4b1 {
+  background-color: transparent;
+  height: 149px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 113px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-h0ybiQ {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 44.27px;
+  height: 82px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.pop-up-candidature-l-agence-maquette .x0-zHhUN4 {
+  background-color: transparent;
+  height: 38px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 38px;
+}
+
+.pop-up-candidature-l-agence-maquette .entretiens-raliss-h0ybiQ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 96px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-52-h0ybiQ {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 22px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 127px;
+  width: 83px;
+}
+
+.pop-up-candidature-l-agence-maquette .a-va-venir-iEJx9t {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .group-71-ZErqm2 {
+  background-color: transparent;
+  height: 1176px;
+  left: 99px;
+  position: absolute;
+  top: 140px;
+  width: 1255px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-KRjwew {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  position: absolute;
+  top: 259px;
+  width: 205px;
+}
+
+.pop-up-candidature-l-agence-maquette .tes-candidatures-dT40hB {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-53-KRjwew {
+  background-color: transparent;
+  height: 156px;
+  left: 1px;
+  position: absolute;
+  top: 330px;
+  width: 173px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-66-1uNJAq {
+  background-color: transparent;
+  height: 156px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 173px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-54-NxvhFa {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 172px;
+}
+
+.pop-up-candidature-l-agence-maquette .candidatures-envoye-n2yPxJ {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-55-NxvhFa {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 43px;
+  width: 135px;
+}
+
+.pop-up-candidature-l-agence-maquette .candidatures-lue-oHLzYf {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-56-NxvhFa {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 86px;
+  width: 173px;
+}
+
+.pop-up-candidature-l-agence-maquette .candidatures-refuses-R15i7n {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-57-NxvhFa {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 129px;
+  width: 145px;
+}
+
+.pop-up-candidature-l-agence-maquette .entretiens-raliss-xrXRYe {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .line-5-KRjwew {
+  background-color: transparent;
+  height: 180px;
+  left: 375px;
+  position: absolute;
+  top: 664px;
+  width: 3px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-65-KRjwew {
+  background-color: transparent;
+  height: 804px;
+  left: 379px;
+  position: absolute;
+  top: 331px;
+  width: 791px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-63-bApMfW {
+  background-color: transparent;
+  height: 520px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 791px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-4-NJJizO {
+  background-color: transparent;
+  height: 35px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 122px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-59-NJJizO {
+  background-color: transparent;
+  height: 465px;
+  left: 0px;
+  position: absolute;
+  top: 55px;
+  width: 791px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-8-csFnWq {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 111px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 771px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-nXZoqx {
+  background-color: transparent;
+  height: 22px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .comptable-q2fCF0 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-4-q2fCF0 {
+  background-color: var(--navy-blue);
+  border-radius: 4px;
+  height: 22px;
+  left: 686px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.pop-up-candidature-l-agence-maquette .envoye-YurlsE {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-9PK0UH {
+  background-color: transparent;
+  height: 17px;
+  left: 12px;
+  position: absolute;
+  top: 42px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .nom-de-lentreprise-kJRNhx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-58-nXZoqx {
+  background-color: transparent;
+  height: 32px;
+  left: 12px;
+  position: absolute;
+  top: 67px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-BZWpfn {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 269px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-If8H2A {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-agence-maquette .cdd-6-mois-ZpjbPw {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-oBCudt {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 94px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-agence-maquette .nantes-44-6XZMKA {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-hckRLH {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 187px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-agence-maquette .il-y-a-2-jours-BWc43v {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-rBx8wa {
+  background-color: var(--brand-colorbrand-secondary);
+  border-radius: 20px;
+  height: 32px;
+  left: 622px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 125px;
+}
+
+.pop-up-candidature-l-agence-maquette .voir-le-dtail-uFixJj {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-54-csFnWq {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 104px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 125px;
+  width: 771px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-OJOxNx {
+  background-color: transparent;
+  height: 22px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .comptable-kRfa69 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-4-kRfa69 {
+  background-color: var(--navy-blue);
+  border-radius: 4px;
+  height: 22px;
+  left: 686px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.pop-up-candidature-l-agence-maquette .envoye-PhYAx8 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-rkuJHU {
+  background-color: transparent;
+  height: 17px;
+  left: 12px;
+  position: absolute;
+  top: 42px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .nom-de-lentreprise-82Njk9 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-58-OJOxNx {
+  background-color: transparent;
+  height: 25px;
+  left: 12px;
+  position: absolute;
+  top: 67px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-euNhK7 {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 269px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-yKu9Q4 {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-agence-maquette .cdd-6-mois-moxPIz {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-r4ENE3 {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 94px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-agence-maquette .nantes-44-C4hx4E {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-EMtlPN {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 187px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-agence-maquette .il-y-a-2-jours-ojYNfA {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-ey7rx9 {
+  background-color: var(--sun);
+  border-radius: 20px;
+  height: 25px;
+  left: 622px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 125px;
+}
+
+.pop-up-candidature-l-agence-maquette .voir-le-dtail-bQ9gYs {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-55-csFnWq {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 104px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 243px;
+  width: 771px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-jufCPG {
+  background-color: transparent;
+  height: 22px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .comptable-mWYELP {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-4-mWYELP {
+  background-color: var(--navy-blue);
+  border-radius: 4px;
+  height: 22px;
+  left: 686px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.pop-up-candidature-l-agence-maquette .envoye-wE8gMp {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-gF5q9E {
+  background-color: transparent;
+  height: 17px;
+  left: 12px;
+  position: absolute;
+  top: 42px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .nom-de-lentreprise-0YWDFc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-58-jufCPG {
+  background-color: transparent;
+  height: 25px;
+  left: 12px;
+  position: absolute;
+  top: 67px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-YxbPPk {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 269px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-4vH05s {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-agence-maquette .cdd-6-mois-2V9o6Q {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-wbXxLu {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 94px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-agence-maquette .nantes-44-DjLsze {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-sKHWZC {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 187px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-agence-maquette .il-y-a-2-jours-PWtQ5h {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-XGxJDx {
+  background-color: var(--sun);
+  border-radius: 20px;
+  height: 25px;
+  left: 622px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 125px;
+}
+
+.pop-up-candidature-l-agence-maquette .voir-le-dtail-dItZAx {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-56-csFnWq {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 104px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 361px;
+  width: 771px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-RxpVQm {
+  background-color: transparent;
+  height: 22px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .comptable-O06bhF {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-4-O06bhF {
+  background-color: var(--navy-blue);
+  border-radius: 4px;
+  height: 22px;
+  left: 686px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.pop-up-candidature-l-agence-maquette .envoye-kwoTZu {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-CIW1Ox {
+  background-color: transparent;
+  height: 17px;
+  left: 12px;
+  position: absolute;
+  top: 42px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .nom-de-lentreprise-ryHNvL {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-58-RxpVQm {
+  background-color: transparent;
+  height: 25px;
+  left: 12px;
+  position: absolute;
+  top: 67px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-my2E8z {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 269px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-qdKJxp {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-agence-maquette .cdd-6-mois-r298mP {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-sAlP2C {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 94px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-agence-maquette .nantes-44-xZaGxc {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-Kap3iC {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 187px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-agence-maquette .il-y-a-2-jours-t12xG4 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-ZQwVLz {
+  background-color: var(--sun);
+  border-radius: 20px;
+  height: 25px;
+  left: 622px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 125px;
+}
+
+.pop-up-candidature-l-agence-maquette .voir-le-dtail-443E21 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-64-bApMfW {
+  background-color: transparent;
+  height: 169px;
+  left: 0px;
+  position: absolute;
+  top: 560px;
+  width: 791px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-60-0coSGo {
+  background-color: transparent;
+  height: 1px;
+  left: 65px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-61-0coSGo {
+  background-color: transparent;
+  height: 104px;
+  left: 0px;
+  position: absolute;
+  top: 65px;
+  width: 791px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-8-1TxTJk {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 104px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 771px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-cjFLVv {
+  background-color: transparent;
+  height: 22px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .comptable-Kbw7gX {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-4-Kbw7gX {
+  background-color: var(--navy-blue);
+  border-radius: 4px;
+  height: 22px;
+  left: 686px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.pop-up-candidature-l-agence-maquette .envoye-Bw1tlp {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-x3zAeQ {
+  background-color: transparent;
+  height: 17px;
+  left: 12px;
+  position: absolute;
+  top: 42px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .nom-de-lentreprise-gFog8a {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-58-cjFLVv {
+  background-color: transparent;
+  height: 25px;
+  left: 12px;
+  position: absolute;
+  top: 67px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-gcGRRT {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 269px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-WMD6GZ {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-agence-maquette .cdd-6-mois-eFm5L4 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-aseBRd {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 94px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-agence-maquette .nantes-44-NUvg0Z {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-5nMPP5 {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 187px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-agence-maquette .il-y-a-2-jours-XJQaBe {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-3-W8LzXi {
+  background-color: var(--sun);
+  border-radius: 20px;
+  height: 25px;
+  left: 622px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 125px;
+}
+
+.pop-up-candidature-l-agence-maquette .voir-le-dtail-j6axGX {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-62-bApMfW {
+  background-color: transparent;
+  height: 1px;
+  left: 73px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 786px;
+  width: 1px;
+}
+
+.pop-up-candidature-l-agence-maquette .group-65-KRjwew {
+  background-color: transparent;
+  height: 218px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 153px;
+}
+
+.pop-up-candidature-l-agence-maquette .group-4-3P4hzl {
+  background-color: transparent;
+  height: 163px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 153px;
+}
+
+.pop-up-candidature-l-agence-maquette .rectangle-14-Wzbaxz {
+  background-color: var(--brand-colorbrand-primary);
+  height: 163px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.pop-up-candidature-l-agence-maquette .rectangle-15-Wzbaxz {
+  background-color: var(--brand-colorbrand-primary);
+  height: 134px;
+  left: 51px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 51px;
+}
+
+.pop-up-candidature-l-agence-maquette .rectangle-16-Wzbaxz {
+  background-color: var(--brand-colorbrand-primary);
+  height: 106px;
+  left: 102px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 57px;
+  width: 51px;
+}
+
+.pop-up-candidature-l-agence-maquette .ellipse-9-3P4hzl {
+  background-color: var(--brand-colorbrand-quinary);
+  border-radius: 25.47px;
+  height: 51px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.pop-up-candidature-l-agence-maquette .ellipse-32-KRjwew {
+  background-color: var(--mist-gray);
+  border-radius: 35.5px;
+  height: 71px;
+  left: 1184px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1073px;
+  width: 71px;
+}
+
+.pop-up-candidature-l-agence-maquette .group-68-KRjwew {
+  background-color: transparent;
+  height: 480px;
+  left: 1px;
+  position: absolute;
+  top: 511px;
+  width: 332px;
+}
+
+.pop-up-candidature-l-agence-maquette .rectangle-38-NC3h5t {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 8px;
+  height: 480px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 328px;
+}
+
+.pop-up-candidature-l-agence-maquette .envie-de-dcouvrir-un-nouveau-secteur-NC3h5t {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 311px;
+  width: 262px;
+}
+
+.pop-up-candidature-l-agence-maquette .ton-parcours-na-pas-NC3h5t {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 377px;
+  width: 262px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-66-NC3h5t {
+  background-color: transparent;
+  height: 25px;
+  left: 15px;
+  position: absolute;
+  top: 428px;
+  width: 131px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-4-1l2FK1 {
+  background-color: var(--sun);
+  border-radius: 20px;
+  height: 25px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 131px;
+}
+
+.pop-up-candidature-l-agence-maquette .je-me-lance-49OO0P {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .group-46-NC3h5t {
+  background-color: transparent;
+  height: 1px;
+  left: 164px;
+  position: absolute;
+  top: 165px;
+  width: 1px;
+}
+
+.pop-up-candidature-l-agence-maquette .rectangle-34-9YyHAs {
+  background-color: var(--black-2);
+  height: 738px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1366px;
+}
+
+.pop-up-candidature-l-agence-maquette .group-74-9YyHAs {
+  background-color: transparent;
+  height: 629px;
+  left: 228px;
+  position: absolute;
+  top: 55px;
+  width: 909px;
+}
+
+.pop-up-candidature-l-agence-maquette .rectangle-35-HxjgG2 {
+  background-color: var(--user-interface-colorswhite);
+  height: 629px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 909px;
+}
+
+.pop-up-candidature-l-agence-maquette .group-67-HxjgG2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 911px;
+}
+
+.pop-up-candidature-l-agence-maquette .rectangle-36-REGpcb {
+  background-color: var(--brand-colorbrand-primary);
+  height: 56px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 909px;
+}
+
+.pop-up-candidature-l-agence-maquette .close-REGpcb {
+  background-color: transparent;
+  height: 20px;
+  left: 875px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 20px;
+}
+
+.pop-up-candidature-l-agence-maquette .comptable-pour-nom-de-lentreprise-REGpcb {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-77-HxjgG2 {
+  background-color: transparent;
+  height: 242px;
+  left: 70px;
+  position: absolute;
+  top: 77px;
+  width: 770px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-75-VEUvqc {
+  background-color: transparent;
+  height: 27px;
+  left: 244px;
+  position: absolute;
+  top: 0px;
+  width: 282px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-68-pYzsc6 {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 109px;
+}
+
+.pop-up-candidature-l-agence-maquette .ma-candidature-kI4lA6 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .l-annonce-pYzsc6 {
+  background-color: transparent;
+  height: auto;
+  left: 125px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-70-pYzsc6 {
+  background-color: transparent;
+  height: 27px;
+  left: 216px;
+  position: absolute;
+  top: 0px;
+  width: 66px;
+}
+
+.pop-up-candidature-l-agence-maquette .l-agence-rCamor {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-agence-maquette .line-3-rCamor {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 26px;
+  width: 66px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-76-VEUvqc {
+  background-color: transparent;
+  height: 193px;
+  left: 0px;
+  position: absolute;
+  top: 49px;
+  width: 770px;
+}
+
+.pop-up-candidature-l-agence-maquette .frame-74-Hml3k3 {
+  background-color: transparent;
+  height: 193px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 770px;
+}
+
+.pop-up-candidature-l-agence-maquette .capture-decran-2022-04-06-a-1639-1-HxjgG2 {
+  background-color: transparent;
+  height: 281px;
+  left: 70px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 319px;
+  width: 771px;
+}

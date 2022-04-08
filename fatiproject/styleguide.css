@@ -1,0 +1,66 @@
+:root { 
+  --black: #000000;
+  --bon-jour-2: #e1e1e180;
+  --brand-colorbrand-primary: #2175d9;
+  --brand-colorbrand-secondary: #0f1941;
+  --eucalyptus: #257f5633;
+  --mist-gray: #c4c4c4;
+  --user-interface-colorsbrand-secondary-shade-180: #03050d;
+  --user-interface-colorsui-positive: #257f56;
+  --user-interface-colorswhite: #ffffff;
+ 
+  --font-size-l2: 14px;
+  --font-size-m2: 12px;
+  --font-size-s2: 10px;
+  --font-size-xl2: 16px;
+  --font-size-xxl: 24px;
+ 
+  --font-family-tahoma-regular: "Tahoma-Regular", Helvetica;
+}
+.tahoma-regular-normal-tangaroa-14px {
+  color: var(--brand-colorbrand-secondary);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tahoma-regular-normal-tangaroa-16px {
+  color: var(--brand-colorbrand-secondary);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tahoma-regular-normal-white-24px {
+  color: var(--user-interface-colorswhite);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tahoma-regular-normal-eucalyptus-12px {
+  color: var(--user-interface-colorsui-positive);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tahoma-regular-normal-tangaroa-10px {
+  color: var(--brand-colorbrand-secondary);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tahoma-regular-normal-jaguar-14px {
+  color: var(--user-interface-colorsbrand-secondary-shade-180);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+}

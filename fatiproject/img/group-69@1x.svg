@@ -1,0 +1,24 @@
+<svg width="788" height="149" viewBox="0 0 788 149" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 93L-1.66103e-06 55L769 55C779.493 55 788 63.5066 788 74C788 84.4934 779.493 93 769 93L0 93Z" fill="#2175D9"/>
+<ellipse cx="642.646" cy="93.6371" rx="55.3629" ry="53.7465" transform="rotate(-90 642.646 93.6371)" fill="#E74536"/>
+<mask id="mask0_58_76" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="563" y="38" width="141" height="56">
+<rect x="563.844" y="93.6372" width="55.3629" height="139.822" transform="rotate(-90 563.844 93.6372)" fill="#2175D9"/>
+</mask>
+<g mask="url(#mask0_58_76)">
+<ellipse cx="642.645" cy="93.6376" rx="55.3629" ry="53.7465" transform="rotate(-90 642.645 93.6376)" fill="black"/>
+</g>
+<ellipse cx="131.423" cy="93.6371" rx="55.3629" ry="53.7465" transform="rotate(-90 131.423 93.6371)" fill="black"/>
+<mask id="mask1_58_76" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="52" y="38" width="141" height="56">
+<rect x="52.6223" y="93.6372" width="55.3629" height="139.822" transform="rotate(-90 52.6223 93.6372)" fill="#E74536"/>
+</mask>
+<g mask="url(#mask1_58_76)">
+<ellipse cx="131.423" cy="93.6376" rx="55.3629" ry="53.7465" transform="rotate(-90 131.423 93.6376)" fill="#E74536"/>
+</g>
+<ellipse cx="402.446" cy="55.7186" rx="55.3629" ry="53.7465" transform="rotate(-90 402.446 55.7186)" fill="#FBB511"/>
+<mask id="mask2_58_76" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="323" y="55" width="141" height="57">
+<rect x="323.645" y="111.081" width="55.3629" height="139.822" transform="rotate(-90 323.645 111.081)" fill="#2175D9"/>
+</mask>
+<g mask="url(#mask2_58_76)">
+<ellipse cx="402.446" cy="55.7181" rx="55.3629" ry="53.7465" transform="rotate(-90 402.446 55.7181)" fill="white"/>
+</g>
+</svg>

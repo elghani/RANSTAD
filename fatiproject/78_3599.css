@@ -1,0 +1,215 @@
+/* screen - 78_3599 */
+
+.group-70 {
+  align-items: flex-end;
+  background-color: var(--user-interface-colorswhite);
+  display: flex;
+  flex-direction: column;
+  min-height: 629px;
+  width: 909px;
+}
+
+.overlap-group {
+  align-items: flex-start;
+  background-color: var(--brand-colorbrand-primary);
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  min-width: 909px;
+  padding: 12px 14px;
+}
+
+.comptable-pour-nom-de-lentreprise {
+  letter-spacing: 0;
+  min-height: 29px;
+  min-width: 383px;
+}
+
+.icon-close {
+  align-self: center;
+  height: 20px;
+  margin-left: 468px;
+  width: 20px;
+}
+
+.flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 560px;
+  margin-right: 7px;
+  margin-top: 13px;
+  min-width: 832px;
+}
+
+.frame-77 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 552px;
+  width: 770px;
+}
+
+.frame-75 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 27px;
+  min-width: 282px;
+}
+
+.frame-67 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 27px;
+  width: 109px;
+}
+
+.ma-candidature {
+  letter-spacing: 0;
+  min-height: 19px;
+}
+
+.line-3 {
+  height: 2px;
+  margin-top: 7px;
+  width: 109px;
+}
+
+.frame-68 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 19px;
+  margin-left: 16px;
+  min-width: 75px;
+}
+
+.l-annonce {
+  letter-spacing: 0;
+  min-height: 19px;
+}
+
+.l-agence {
+  letter-spacing: 0;
+  margin-left: 16px;
+  min-height: 19px;
+}
+
+.frame-76 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 22px;
+  min-height: 503px;
+  width: 770px;
+}
+
+.frame-73 {
+  align-items: flex-start;
+  background-color: var(--bon-jour-2);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  min-height: 120px;
+  padding: 20px;
+  width: 770px;
+}
+
+.frame-69 {
+  align-items: center;
+  display: flex;
+  min-width: 420px;
+}
+
+.statut-de-ma-candidature {
+  letter-spacing: 0;
+  min-height: 17px;
+  min-width: 167px;
+}
+
+.frame-68-1 {
+  align-items: center;
+  display: flex;
+  margin-left: 14px;
+  min-width: 239px;
+}
+
+.frame-4 {
+  align-items: center;
+  background-color: var(--eucalyptus);
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  min-width: 35px;
+  padding: 0 8px;
+}
+
+.lue {
+  letter-spacing: 0;
+  min-height: 14px;
+  min-width: 19px;
+}
+
+.votre-candidature-a {
+  letter-spacing: 0;
+  margin-left: 12px;
+  min-height: 12px;
+  min-width: 192px;
+}
+
+.frame-70 {
+  align-items: flex-start;
+  display: flex;
+  height: 17px;
+  margin-top: 12px;
+  min-width: 249px;
+}
+
+.envoy-le {
+  letter-spacing: 0;
+  min-height: 17px;
+  min-width: 69px;
+}
+
+.date {
+  letter-spacing: 0;
+  margin-left: 110px;
+  min-height: 17px;
+}
+
+.frame-71 {
+  align-items: flex-start;
+  display: flex;
+  height: 17px;
+  margin-top: 12px;
+  min-width: 311px;
+}
+
+.mon-cv {
+  letter-spacing: 0;
+  min-height: 17px;
+  min-width: 57px;
+}
+
+.tlcharger-le-fichier {
+  letter-spacing: 0;
+  margin-left: 124px;
+  min-height: 17px;
+  text-decoration: underline;
+}
+
+.frame-74 {
+  height: 367px;
+  margin-top: 16px;
+  width: 770px;
+}
+
+.rectangle-37 {
+  background-color: var(--mist-gray);
+  border-radius: 10px;
+  height: 489px;
+  margin-left: 55px;
+  width: 7px;
+}

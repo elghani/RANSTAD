@@ -1,0 +1,2603 @@
+/* screen - mon-compte-maquette */
+
+.mon-compte-maquette {
+  background-color: var(--user-interface-colorswhite);
+  height: 1909px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1366px;
+}
+
+.mon-compte-maquette .line-1-bM9vHE {
+  background-color: transparent;
+  height: 1px;
+  left: 100px;
+  position: absolute;
+  top: 86px;
+  width: 1166px;
+}
+
+.mon-compte-maquette .group-91-bM9vHE {
+  background-color: transparent;
+  height: 65px;
+  left: 101px;
+  position: absolute;
+  top: 11px;
+  width: 1166px;
+}
+
+.mon-compte-maquette .logorandstad-1-mxTFUa {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 178px;
+}
+
+.mon-compte-maquette .frame-1-mxTFUa {
+  background-color: transparent;
+  height: 19px;
+  left: 297px;
+  position: absolute;
+  top: 42px;
+  width: 534px;
+}
+
+.mon-compte-maquette .candidats-xJFdm1 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.mon-compte-maquette .recruteurs-xJFdm1 {
+  background-color: transparent;
+  height: auto;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.mon-compte-maquette .nos-agences-xJFdm1 {
+  background-color: transparent;
+  height: auto;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.mon-compte-maquette .covid-19-xJFdm1 {
+  background-color: transparent;
+  height: auto;
+  left: 329px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.mon-compte-maquette .je-me-dcouvre-xJFdm1 {
+  background-color: transparent;
+  height: auto;
+  left: 422px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-5-mxTFUa {
+  background-color: transparent;
+  height: 30px;
+  left: 1024px;
+  position: absolute;
+  top: 35px;
+  width: 141px;
+}
+
+.mon-compte-maquette .mon-espace-uWkqRt {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-1-uWkqRt {
+  background-color: transparent;
+  border-radius: 50px;
+  height: 30px;
+  left: 111px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.mon-compte-maquette .ja-QZx5SF {
+  background-color: transparent;
+  height: 14px;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-4-mxTFUa {
+  background-color: transparent;
+  height: 12px;
+  left: 965px;
+  position: absolute;
+  top: 0px;
+  width: 201px;
+}
+
+.mon-compte-maquette .frame-2-qNWXuy {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 73px;
+}
+
+.mon-compte-maquette .eye-Zo2SJ9 {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.mon-compte-maquette .accessibilit-Zo2SJ9 {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.mon-compte-maquette .line-3-qNWXuy {
+  background-color: transparent;
+  height: 10px;
+  left: 84px;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.mon-compte-maquette .frame-3-qNWXuy {
+  background-color: transparent;
+  height: 12px;
+  left: 97px;
+  position: absolute;
+  top: 0px;
+  width: 104px;
+}
+
+.mon-compte-maquette .group-1-8ApK3y {
+  background-color: transparent;
+  height: 9px;
+  left: -0px;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.mon-compte-maquette .groupe-randstad-8ApK3y {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-24-bM9vHE {
+  background-color: transparent;
+  height: 1399px;
+  left: 83px;
+  position: absolute;
+  top: 485px;
+  width: 1200px;
+}
+
+.mon-compte-maquette .frame-18-mSIJFs {
+  background-color: var(--concrete);
+  border-radius: 12px;
+  height: 230px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1200px;
+}
+
+.mon-compte-maquette .frame-7-3OaDCA {
+  background-color: transparent;
+  height: 65px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 1168px;
+}
+
+.mon-compte-maquette .frame-3-kmxCyz {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1168px;
+}
+
+.mon-compte-maquette .mes-candidatures-IJB7gx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-16-IJB7gx {
+  background-color: transparent;
+  height: 32px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 932px;
+}
+
+.mon-compte-maquette .frame-3-JZ0wOB {
+  background-color: var(--brand-colorbrand-secondary);
+  border-radius: 20px;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 234px;
+}
+
+.mon-compte-maquette .rechercher-une-offre-demploi-UL7YY1 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-5-JZ0wOB {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 32px;
+  left: 851px;
+  position: absolute;
+  top: 0px;
+  width: 81px;
+}
+
+.mon-compte-maquette .voir-tout-wg7gRj {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.mon-compte-maquette .tu-as-postul-10-cand-kmxCyz {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-17-3OaDCA {
+  background-color: transparent;
+  height: 101px;
+  left: 16px;
+  position: absolute;
+  top: 113px;
+  width: 1168px;
+}
+
+.mon-compte-maquette .frame-8-7jx7EW {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 101px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 277px;
+}
+
+.mon-compte-maquette .frame-3-9iWARU {
+  background-color: transparent;
+  height: 22px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 253px;
+}
+
+.mon-compte-maquette .comptable-AZ6hAx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-5-AZ6hAx {
+  background-color: var(--navy-blue-2);
+  border-radius: 4px;
+  height: 22px;
+  left: 192px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.mon-compte-maquette .envoye-AHR7YD {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-ppw1eM {
+  background-color: transparent;
+  height: 47px;
+  left: 12px;
+  position: absolute;
+  top: 42px;
+  width: 253px;
+}
+
+.mon-compte-maquette .nom-de-lentreprise-x3Je58 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-x3Je58 {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 25px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-Fl3Fxk {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .cdd-6-mois-thMSuo {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-kOIqW8 {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 86px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .nantes-44-vYWwcL {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-Jd9Uby {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 171px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .il-y-a-2-jours-7oiJVI {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-11-7jx7EW {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 101px;
+  left: 297px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 277px;
+}
+
+.mon-compte-maquette .frame-3-4MeNYh {
+  background-color: transparent;
+  height: 22px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 253px;
+}
+
+.mon-compte-maquette .comptable-HqFmMq {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-4-HqFmMq {
+  background-color: var(--eucalyptus);
+  border-radius: 4px;
+  height: 22px;
+  left: 218px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 35px;
+}
+
+.mon-compte-maquette .lue-wsiJOf {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-xUgTWS {
+  background-color: transparent;
+  height: 47px;
+  left: 12px;
+  position: absolute;
+  top: 42px;
+  width: 253px;
+}
+
+.mon-compte-maquette .nom-de-lentreprise-DfoUx7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-DfoUx7 {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 25px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-DWWoJY {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .cdd-6-mois-QSDqCm {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-xhz5PH {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 86px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .nantes-44-Qynwwa {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-oaldn2 {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 171px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .il-y-a-2-jours-uvykzv {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-12-7jx7EW {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 101px;
+  left: 594px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 277px;
+}
+
+.mon-compte-maquette .frame-3-6FaXey {
+  background-color: transparent;
+  height: 22px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 253px;
+}
+
+.mon-compte-maquette .comptable-TM30ju {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-4-TM30ju {
+  background-color: var(--navy-blue-2);
+  border-radius: 4px;
+  height: 22px;
+  left: 192px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.mon-compte-maquette .envoye-gnaCO7 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-s5S9ZB {
+  background-color: transparent;
+  height: 47px;
+  left: 12px;
+  position: absolute;
+  top: 42px;
+  width: 253px;
+}
+
+.mon-compte-maquette .nom-de-lentreprise-YySj10 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-YySj10 {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 25px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-hwmvZl {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .cdd-6-mois-4dL5Ry {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-x0x03p {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 86px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .nantes-44-2EJUhr {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-fdyIQf {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 171px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .il-y-a-2-jours-MrVJCE {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-13-7jx7EW {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 101px;
+  left: 891px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 277px;
+}
+
+.mon-compte-maquette .frame-3-k5bu2e {
+  background-color: transparent;
+  height: 22px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 253px;
+}
+
+.mon-compte-maquette .comptable-KBOP6x {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-4-KBOP6x {
+  background-color: var(--cinnabar);
+  border-radius: 4px;
+  height: 22px;
+  left: 195px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 58px;
+}
+
+.mon-compte-maquette .refuse-DsdxWW {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-KB71Lx {
+  background-color: transparent;
+  height: 47px;
+  left: 12px;
+  position: absolute;
+  top: 42px;
+  width: 253px;
+}
+
+.mon-compte-maquette .nom-de-lentreprise-of2pwG {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-of2pwG {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 25px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-jwbVDf {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .cdd-6-mois-0fJSHQ {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-SH3UMJ {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 86px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .nantes-44-bfaNyF {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-LtK8bh {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 171px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .il-y-a-2-jours-najlKu {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .group-68-mSIJFs {
+  background-color: transparent;
+  height: 202px;
+  left: 0px;
+  position: absolute;
+  top: 270px;
+  width: 1200px;
+}
+
+.mon-compte-maquette .rectangle-38-Z2ACzx {
+  background-color: var(--user-interface-colorsbrand-primary-tint-7);
+  border-radius: 8px;
+  height: 202px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1200px;
+}
+
+.mon-compte-maquette .frame-79-Z2ACzx {
+  background-color: var(--user-interface-colorsbrand-primary-tint-7);
+  height: 156px;
+  left: 842px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27px;
+  width: 342px;
+}
+
+.mon-compte-maquette .frame-78-0bqRb9 {
+  background-color: transparent;
+  height: 108px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 316px;
+}
+
+.mon-compte-maquette .envie-de-dcouvrir-un-nouveau-secteur-nK8xME {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 316px;
+}
+
+.mon-compte-maquette .ton-parcours-na-pas-nK8xME {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  width: 316px;
+}
+
+.mon-compte-maquette .frame-66-0bqRb9 {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 124px;
+  width: 131px;
+}
+
+.mon-compte-maquette .frame-4-upvJKR {
+  background-color: var(--brand-colorbrand-secondary);
+  border-radius: 20px;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 131px;
+}
+
+.mon-compte-maquette .je-me-lance-OI2De2 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-20-mSIJFs {
+  background-color: var(--concrete);
+  height: 224px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 512px;
+  width: 1200px;
+}
+
+.mon-compte-maquette .frame-12-CCoLJH {
+  background-color: transparent;
+  height: 62px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 500px;
+}
+
+.mon-compte-maquette .frame-7-7g1fVB {
+  background-color: transparent;
+  height: 62px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 500px;
+}
+
+.mon-compte-maquette .frame-3-v0k80Q {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 152px;
+}
+
+.mon-compte-maquette .ma-slection-oVVmdZ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.mon-compte-maquette .tu-as-mis-de-ct-deux-v0k80Q {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 43px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-19-CCoLJH {
+  background-color: transparent;
+  height: 98px;
+  left: 16px;
+  position: absolute;
+  top: 110px;
+  width: 574px;
+}
+
+.mon-compte-maquette .frame-8-OkceR5 {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 98px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 277px;
+}
+
+.mon-compte-maquette .frame-3-oFQhBF {
+  background-color: transparent;
+  height: 19px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 253px;
+}
+
+.mon-compte-maquette .comptable-tfVcIr {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.mon-compte-maquette .vector-tfVcIr {
+  background-color: transparent;
+  height: 14px;
+  left: 237px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}
+
+.mon-compte-maquette .frame-3-0ulZ3s {
+  background-color: transparent;
+  height: 47px;
+  left: 12px;
+  position: absolute;
+  top: 39px;
+  width: 253px;
+}
+
+.mon-compte-maquette .nom-de-lentreprise-Kd7ejm {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-Kd7ejm {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 25px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-2r5KPu {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .cdd-6-mois-jb8AjO {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-CdHNhL {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 86px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .nantes-44-jGOmG8 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-gyafqE {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 171px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .il-y-a-2-jours-S5Ienc {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-10-OkceR5 {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 98px;
+  left: 297px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 277px;
+}
+
+.mon-compte-maquette .frame-3-QVeNfG {
+  background-color: transparent;
+  height: 19px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 253px;
+}
+
+.mon-compte-maquette .comptable-qyo5cP {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.mon-compte-maquette .vector-qyo5cP {
+  background-color: transparent;
+  height: 14px;
+  left: 237px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}
+
+.mon-compte-maquette .frame-3-KBP8n7 {
+  background-color: transparent;
+  height: 47px;
+  left: 12px;
+  position: absolute;
+  top: 39px;
+  width: 253px;
+}
+
+.mon-compte-maquette .nom-de-lentreprise-wev3V7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-wev3V7 {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 25px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-Tq9v3x {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .cdd-6-mois-7gMUX4 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-GVIPhU {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 86px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .nantes-44-yOGM7k {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-zLS2Tj {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 171px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .il-y-a-2-jours-bf0iO5 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-24-mSIJFs {
+  background-color: var(--concrete);
+  border-radius: 12px;
+  height: 227px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 776px;
+  width: 1200px;
+}
+
+.mon-compte-maquette .frame-7-WlqjTC {
+  background-color: transparent;
+  height: 65px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 372px;
+}
+
+.mon-compte-maquette .frame-3-EpYP5i {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 307px;
+}
+
+.mon-compte-maquette .mes-cv-rxTLqB {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-4-rxTLqB {
+  background-color: var(--brand-colorbrand-secondary);
+  border-radius: 20px;
+  height: 32px;
+  left: 112px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 195px;
+}
+
+.mon-compte-maquette .je-crer-un-nouveau-cv-BXYTxR {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.mon-compte-maquette .en-fonction-du-poste-EpYP5i {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-17-WlqjTC {
+  background-color: transparent;
+  height: 98px;
+  left: 16px;
+  position: absolute;
+  top: 113px;
+  width: 1168px;
+}
+
+.mon-compte-maquette .frame-8-JT3gsF {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 98px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 277px;
+}
+
+.mon-compte-maquette .comptable-1WnPls {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-1WnPls {
+  background-color: transparent;
+  height: 47px;
+  left: 12px;
+  position: absolute;
+  top: 39px;
+  width: 253px;
+}
+
+.mon-compte-maquette .nom-de-lentreprise-auHbZT {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-auHbZT {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 25px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-jyWDxV {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .cdd-6-mois-1axpAD {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-ieqcsY {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 86px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .nantes-44-CXfH2G {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-zXxxJx {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 171px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .il-y-a-2-jours-pxZiZV {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-9-JT3gsF {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 98px;
+  left: 297px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 277px;
+}
+
+.mon-compte-maquette .comptable-y9dnvB {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-y9dnvB {
+  background-color: transparent;
+  height: 47px;
+  left: 12px;
+  position: absolute;
+  top: 39px;
+  width: 253px;
+}
+
+.mon-compte-maquette .nom-de-lentreprise-oiIO8L {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-oiIO8L {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 25px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-CtbNoi {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .cdd-6-mois-D59pBb {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-iLyxUJ {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 86px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .nantes-44-IAt4Fy {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-hNhY45 {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 171px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .il-y-a-2-jours-z3UTxQ {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-10-JT3gsF {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 98px;
+  left: 594px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 277px;
+}
+
+.mon-compte-maquette .comptable-3hYxxB {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-3hYxxB {
+  background-color: transparent;
+  height: 47px;
+  left: 12px;
+  position: absolute;
+  top: 39px;
+  width: 253px;
+}
+
+.mon-compte-maquette .nom-de-lentreprise-96E8mZ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-96E8mZ {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 25px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-U8eDta {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .cdd-6-mois-psKcVZ {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-SoxjZx {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 86px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .nantes-44-DXLqlr {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-E2O1wC {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 171px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .il-y-a-2-jours-qIxrzb {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-15-JT3gsF {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 98px;
+  left: 891px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 277px;
+}
+
+.mon-compte-maquette .comptable-ksnuxQ {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-ksnuxQ {
+  background-color: transparent;
+  height: 47px;
+  left: 12px;
+  position: absolute;
+  top: 39px;
+  width: 253px;
+}
+
+.mon-compte-maquette .nom-de-lentreprise-M0VE4j {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-M0VE4j {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 25px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-s57SMv {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .cdd-6-mois-6Z4RJt {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-zEDPaD {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 86px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .nantes-44-Ztx8H3 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-Suhp6T {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 171px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .il-y-a-2-jours-nohMx9 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-26-mSIJFs {
+  background-color: var(--concrete);
+  border-radius: 12px;
+  height: 158px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1043px;
+  width: 1200px;
+}
+
+.mon-compte-maquette .frame-7-bzMYXF {
+  background-color: transparent;
+  height: 62px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 894px;
+}
+
+.mon-compte-maquette .frame-3-kctx8T {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 266px;
+}
+
+.mon-compte-maquette .mon-agence-randstad-xUdQVO {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.mon-compte-maquette .tu-nas-pas-encore-ch-kctx8T {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 43px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-bzMYXF {
+  background-color: var(--brand-colorbrand-secondary);
+  border-radius: 20px;
+  height: 32px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 110px;
+  width: 127px;
+}
+
+.mon-compte-maquette .je-recherche-UlOZ4l {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-25-mSIJFs {
+  background-color: var(--concrete);
+  border-radius: 12px;
+  height: 158px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1241px;
+  width: 1200px;
+}
+
+.mon-compte-maquette .frame-7-8qHxPi {
+  background-color: transparent;
+  height: 62px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 589px;
+}
+
+.mon-compte-maquette .frame-3-DB6w1F {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 193px;
+}
+
+.mon-compte-maquette .la-bote-outils-wcGj93 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.mon-compte-maquette .des-articles-infogra-DB6w1F {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 43px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-8qHxPi {
+  background-color: var(--brand-colorbrand-secondary);
+  border-radius: 20px;
+  height: 32px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 110px;
+  width: 122px;
+}
+
+.mon-compte-maquette .je-dcouvre-QNOf7g {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-22-bM9vHE {
+  background-color: var(--brand-colorbrand-secondary);
+  height: 358px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 87px;
+  width: 1366px;
+}
+
+.mon-compte-maquette .bonjour-julie-nous-a-bnUx4k {
+  background-color: transparent;
+  height: auto;
+  left: 244px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-21-bnUx4k {
+  background-color: transparent;
+  height: 146px;
+  left: 396px;
+  position: absolute;
+  top: 152px;
+  width: 574px;
+}
+
+.mon-compte-maquette .frame-16-328VdO {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 146px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 277px;
+}
+
+.mon-compte-maquette .frame-3-Wk2tGx {
+  background-color: transparent;
+  height: 74px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 253px;
+}
+
+.mon-compte-maquette .comptable-M4Q7Jn {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-M4Q7Jn {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 27px;
+  width: 253px;
+}
+
+.mon-compte-maquette .nom-de-lentreprise-qEJ0cb {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-qEJ0cb {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 25px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-WCLR5g {
+  background-color: var(--bon-jour);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .cdd-6-mois-YtAOth {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-iCx3d3 {
+  background-color: var(--bon-jour);
+  border-radius: 4px;
+  height: 22px;
+  left: 86px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .nantes-44-HrYG3j {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-YaCXjk {
+  background-color: var(--bon-jour);
+  border-radius: 4px;
+  height: 22px;
+  left: 171px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .il-y-a-2-jours-IL2SOM {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-4-Wk2tGx {
+  background-color: var(--brand-colorbrand-secondary);
+  border-radius: 20px;
+  height: 32px;
+  left: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 102px;
+  width: 253px;
+}
+
+.mon-compte-maquette .voir-loffre-DkVSsI {
+  background-color: transparent;
+  height: auto;
+  left: 95px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-18-328VdO {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 146px;
+  left: 297px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 277px;
+}
+
+.mon-compte-maquette .frame-3-4DgKZQ {
+  background-color: transparent;
+  height: 74px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 253px;
+}
+
+.mon-compte-maquette .comptable-qLu4wQ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-qLu4wQ {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 27px;
+  width: 253px;
+}
+
+.mon-compte-maquette .nom-de-lentreprise-fo8x1Z {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-fo8x1Z {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 25px;
+  width: 253px;
+}
+
+.mon-compte-maquette .frame-3-f7lx0H {
+  background-color: var(--bon-jour);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .cdd-6-mois-FxIoU7 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-AAkm5E {
+  background-color: var(--bon-jour);
+  border-radius: 4px;
+  height: 22px;
+  left: 86px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .nantes-44-v9iR1z {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-3-JFshIQ {
+  background-color: var(--bon-jour);
+  border-radius: 4px;
+  height: 22px;
+  left: 171px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.mon-compte-maquette .il-y-a-2-jours-zAJ2GB {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.mon-compte-maquette .frame-4-4DgKZQ {
+  background-color: var(--brand-colorbrand-secondary);
+  border-radius: 20px;
+  height: 32px;
+  left: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 102px;
+  width: 253px;
+}
+
+.mon-compte-maquette .voir-loffre-dJAaxJ {
+  background-color: transparent;
+  height: auto;
+  left: 95px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.mon-compte-maquette .group-26-bM9vHE {
+  background-color: transparent;
+  height: 204px;
+  left: 95px;
+  position: absolute;
+  top: 249px;
+  width: 216px;
+}
+
+.mon-compte-maquette .group-69-bM9vHE {
+  background-color: transparent;
+  height: 149px;
+  left: 83px;
+  position: absolute;
+  top: 781px;
+  width: 788px;
+}
+
+.mon-compte-maquette .group-63-bM9vHE {
+  background-color: transparent;
+  height: 218px;
+  left: 1017px;
+  position: absolute;
+  top: 210px;
+  width: 283px;
+}

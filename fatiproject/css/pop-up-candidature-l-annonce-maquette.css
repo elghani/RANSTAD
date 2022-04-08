@@ -1,0 +1,2212 @@
+/* screen - pop-up-candidature-l-annonce-maquette */
+
+.pop-up-candidature-l-annonce-maquette {
+  background-color: var(--user-interface-colorswhite);
+  height: 738px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1366px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-5-Wa0X4E {
+  background-color: transparent;
+  height: 30px;
+  left: 1125px;
+  position: absolute;
+  top: 46px;
+  width: 141px;
+}
+
+.pop-up-candidature-l-annonce-maquette .mon-espace-XUNQ15 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-1-XUNQ15 {
+  background-color: transparent;
+  border-radius: 50px;
+  height: 30px;
+  left: 111px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.pop-up-candidature-l-annonce-maquette .ja-8ZWC5m {
+  background-color: transparent;
+  height: 14px;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .logorandstad-1-Wa0X4E {
+  background-color: transparent;
+  height: 27px;
+  left: 101px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 39px;
+  width: 178px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-1-Wa0X4E {
+  background-color: transparent;
+  height: 19px;
+  left: 398px;
+  position: absolute;
+  top: 53px;
+  width: 388px;
+}
+
+.pop-up-candidature-l-annonce-maquette .candidats-QL0y9o {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .recruteurs-QL0y9o {
+  background-color: transparent;
+  height: auto;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .nos-agences-QL0y9o {
+  background-color: transparent;
+  height: auto;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .covid-19-QL0y9o {
+  background-color: transparent;
+  height: auto;
+  left: 329px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-4-Wa0X4E {
+  background-color: transparent;
+  height: 12px;
+  left: 1050px;
+  position: absolute;
+  top: 11px;
+  width: 201px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-2-jDOczF {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 73px;
+}
+
+.pop-up-candidature-l-annonce-maquette .eye-jMGLO4 {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.pop-up-candidature-l-annonce-maquette .accessibilit-jMGLO4 {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .line-3-jDOczF {
+  background-color: transparent;
+  height: 10px;
+  left: 84px;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-jDOczF {
+  background-color: transparent;
+  height: 12px;
+  left: 97px;
+  position: absolute;
+  top: 0px;
+  width: 104px;
+}
+
+.pop-up-candidature-l-annonce-maquette .group-1-lRTo2s {
+  background-color: transparent;
+  height: 9px;
+  left: -0px;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.pop-up-candidature-l-annonce-maquette .groupe-randstad-lRTo2s {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .group-72-Wa0X4E {
+  background-color: transparent;
+  height: 1316px;
+  left: 0px;
+  position: absolute;
+  top: 87px;
+  width: 1366px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-53-CibKBv {
+  background-color: var(--brand-colorbrand-secondary);
+  height: 358px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1366px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-OQzx9y {
+  background-color: transparent;
+  height: 29px;
+  left: 99px;
+  position: absolute;
+  top: 60px;
+  width: 1168px;
+}
+
+.pop-up-candidature-l-annonce-maquette .quelques-chiffres-de-KHdPCW {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-28-OQzx9y {
+  background-color: transparent;
+  height: 149px;
+  left: 0px;
+  position: absolute;
+  top: 149px;
+  width: 1366px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-27-fN9um6 {
+  background-color: transparent;
+  height: 149px;
+  left: 274px;
+  position: absolute;
+  top: 0px;
+  width: 162px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-5DLk74 {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 44.27px;
+  height: 82px;
+  left: 41px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.pop-up-candidature-l-annonce-maquette .x10-NagG3d {
+  background-color: transparent;
+  height: 38px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 38px;
+}
+
+.pop-up-candidature-l-annonce-maquette .candidatures-envoyes-5DLk74 {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 96px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-52-5DLk74 {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 127px;
+  width: 162px;
+}
+
+.pop-up-candidature-l-annonce-maquette .tu-es-sur-une-bonne-lance-hz6T6L {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-30-fN9um6 {
+  background-color: transparent;
+  height: 149px;
+  left: 516px;
+  position: absolute;
+  top: 0px;
+  width: 165px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-EsHhih {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 44.27px;
+  height: 82px;
+  left: 42px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.pop-up-candidature-l-annonce-maquette .x3-AeOSii {
+  background-color: transparent;
+  height: 38px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 38px;
+}
+
+.pop-up-candidature-l-annonce-maquette .candidatures-lues-EsHhih {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 96px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-52-EsHhih {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 127px;
+  width: 165px;
+}
+
+.pop-up-candidature-l-annonce-maquette .on-croise-les-doigts-pour-toi-WuYeQ7 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-31-fN9um6 {
+  background-color: transparent;
+  height: 149px;
+  left: 760px;
+  position: absolute;
+  top: 0px;
+  width: 139px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-DW74OV {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 44.27px;
+  height: 82px;
+  left: 29px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.pop-up-candidature-l-annonce-maquette .x2-Wovo9B {
+  background-color: transparent;
+  height: 38px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 38px;
+}
+
+.pop-up-candidature-l-annonce-maquette .candidatures-refuses-DW74OV {
+  background-color: transparent;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 96px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-52-DW74OV {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 127px;
+  width: 139px;
+}
+
+.pop-up-candidature-l-annonce-maquette .ne-te-dcourages-pas-lWv9ro {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-29-fN9um6 {
+  background-color: transparent;
+  height: 149px;
+  left: 980px;
+  position: absolute;
+  top: 0px;
+  width: 113px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-25-TiLKR2 {
+  background-color: transparent;
+  height: 149px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 113px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-wkktM9 {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 44.27px;
+  height: 82px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.pop-up-candidature-l-annonce-maquette .x0-Z6WcmN {
+  background-color: transparent;
+  height: 38px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 38px;
+}
+
+.pop-up-candidature-l-annonce-maquette .entretiens-raliss-wkktM9 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 96px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-52-wkktM9 {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 22px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 127px;
+  width: 83px;
+}
+
+.pop-up-candidature-l-annonce-maquette .a-va-venir-ZZrmS9 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .group-71-CibKBv {
+  background-color: transparent;
+  height: 1176px;
+  left: 99px;
+  position: absolute;
+  top: 140px;
+  width: 1255px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-K7c9fD {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  position: absolute;
+  top: 259px;
+  width: 205px;
+}
+
+.pop-up-candidature-l-annonce-maquette .tes-candidatures-U9py6E {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-53-K7c9fD {
+  background-color: transparent;
+  height: 156px;
+  left: 1px;
+  position: absolute;
+  top: 330px;
+  width: 173px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-66-b7qEt7 {
+  background-color: transparent;
+  height: 156px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 173px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-54-xOnnxA {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 172px;
+}
+
+.pop-up-candidature-l-annonce-maquette .candidatures-envoye-YvswxX {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-55-xOnnxA {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 43px;
+  width: 135px;
+}
+
+.pop-up-candidature-l-annonce-maquette .candidatures-lue-iD3fxA {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-56-xOnnxA {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 86px;
+  width: 173px;
+}
+
+.pop-up-candidature-l-annonce-maquette .candidatures-refuses-83EOPm {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-57-xOnnxA {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 129px;
+  width: 145px;
+}
+
+.pop-up-candidature-l-annonce-maquette .entretiens-raliss-ri3971 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .line-5-K7c9fD {
+  background-color: transparent;
+  height: 180px;
+  left: 375px;
+  position: absolute;
+  top: 664px;
+  width: 3px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-65-K7c9fD {
+  background-color: transparent;
+  height: 804px;
+  left: 379px;
+  position: absolute;
+  top: 331px;
+  width: 791px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-63-H6FmaB {
+  background-color: transparent;
+  height: 520px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 791px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-4-zNojKI {
+  background-color: transparent;
+  height: 35px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 122px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-59-zNojKI {
+  background-color: transparent;
+  height: 465px;
+  left: 0px;
+  position: absolute;
+  top: 55px;
+  width: 791px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-8-IcTdx9 {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 111px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 771px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-JVchYz {
+  background-color: transparent;
+  height: 22px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .comptable-0xvFRC {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-4-0xvFRC {
+  background-color: var(--navy-blue);
+  border-radius: 4px;
+  height: 22px;
+  left: 686px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.pop-up-candidature-l-annonce-maquette .envoye-dQoFWE {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-EtbDd8 {
+  background-color: transparent;
+  height: 17px;
+  left: 12px;
+  position: absolute;
+  top: 42px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .nom-de-lentreprise-qJVCX1 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-58-JVchYz {
+  background-color: transparent;
+  height: 32px;
+  left: 12px;
+  position: absolute;
+  top: 67px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-Cl47mC {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 269px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-NxecBZ {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-annonce-maquette .cdd-6-mois-ouWy1X {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-tDSNCf {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 94px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-annonce-maquette .nantes-44-Flmclo {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-3mlAqk {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 187px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-annonce-maquette .il-y-a-2-jours-VpX4Nv {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-Lc8vL5 {
+  background-color: var(--brand-colorbrand-secondary);
+  border-radius: 20px;
+  height: 32px;
+  left: 622px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 125px;
+}
+
+.pop-up-candidature-l-annonce-maquette .voir-le-dtail-sBPMvc {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-54-IcTdx9 {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 104px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 125px;
+  width: 771px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-xtlOlO {
+  background-color: transparent;
+  height: 22px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .comptable-7deo45 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-4-7deo45 {
+  background-color: var(--navy-blue);
+  border-radius: 4px;
+  height: 22px;
+  left: 686px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.pop-up-candidature-l-annonce-maquette .envoye-XwZL59 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-jfQGcK {
+  background-color: transparent;
+  height: 17px;
+  left: 12px;
+  position: absolute;
+  top: 42px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .nom-de-lentreprise-nDYcyU {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-58-xtlOlO {
+  background-color: transparent;
+  height: 25px;
+  left: 12px;
+  position: absolute;
+  top: 67px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-1e19Sx {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 269px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-F06GZ6 {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-annonce-maquette .cdd-6-mois-cmNQas {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-P144DK {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 94px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-annonce-maquette .nantes-44-LZeYd3 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-uxgPmp {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 187px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-annonce-maquette .il-y-a-2-jours-Ogx7TE {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-ikBYlL {
+  background-color: var(--sun);
+  border-radius: 20px;
+  height: 25px;
+  left: 622px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 125px;
+}
+
+.pop-up-candidature-l-annonce-maquette .voir-le-dtail-SHrCa4 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-55-IcTdx9 {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 104px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 243px;
+  width: 771px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-9tvA9x {
+  background-color: transparent;
+  height: 22px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .comptable-pl9pxz {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-4-pl9pxz {
+  background-color: var(--navy-blue);
+  border-radius: 4px;
+  height: 22px;
+  left: 686px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.pop-up-candidature-l-annonce-maquette .envoye-VYxTEx {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-7gjoBF {
+  background-color: transparent;
+  height: 17px;
+  left: 12px;
+  position: absolute;
+  top: 42px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .nom-de-lentreprise-HxkNdx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-58-9tvA9x {
+  background-color: transparent;
+  height: 25px;
+  left: 12px;
+  position: absolute;
+  top: 67px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-6vO2VN {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 269px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-PNOe03 {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-annonce-maquette .cdd-6-mois-icQ5u0 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-CZpve9 {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 94px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-annonce-maquette .nantes-44-78HvvG {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-H9qWPK {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 187px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-annonce-maquette .il-y-a-2-jours-wWTcoR {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-ovBVpC {
+  background-color: var(--sun);
+  border-radius: 20px;
+  height: 25px;
+  left: 622px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 125px;
+}
+
+.pop-up-candidature-l-annonce-maquette .voir-le-dtail-3N9Xt6 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-56-IcTdx9 {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 104px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 361px;
+  width: 771px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-e4NKI4 {
+  background-color: transparent;
+  height: 22px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .comptable-9NDV3b {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-4-9NDV3b {
+  background-color: var(--navy-blue);
+  border-radius: 4px;
+  height: 22px;
+  left: 686px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.pop-up-candidature-l-annonce-maquette .envoye-K790bs {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-009qSu {
+  background-color: transparent;
+  height: 17px;
+  left: 12px;
+  position: absolute;
+  top: 42px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .nom-de-lentreprise-ENL0k7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-58-e4NKI4 {
+  background-color: transparent;
+  height: 25px;
+  left: 12px;
+  position: absolute;
+  top: 67px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-LjW4aA {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 269px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-PGduFy {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-annonce-maquette .cdd-6-mois-4yKbeZ {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-xEofci {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 94px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-annonce-maquette .nantes-44-dnu2Uy {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-WG8gnP {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 187px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-annonce-maquette .il-y-a-2-jours-7bisAp {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-sO0CQV {
+  background-color: var(--sun);
+  border-radius: 20px;
+  height: 25px;
+  left: 622px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 125px;
+}
+
+.pop-up-candidature-l-annonce-maquette .voir-le-dtail-4Y3xAx {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-64-H6FmaB {
+  background-color: transparent;
+  height: 169px;
+  left: 0px;
+  position: absolute;
+  top: 560px;
+  width: 791px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-60-PDmAh6 {
+  background-color: transparent;
+  height: 1px;
+  left: 65px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-61-PDmAh6 {
+  background-color: transparent;
+  height: 104px;
+  left: 0px;
+  position: absolute;
+  top: 65px;
+  width: 791px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-8-Oo720x {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 4px;
+  height: 104px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 771px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-E3qxZR {
+  background-color: transparent;
+  height: 22px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .comptable-xZgrd2 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-4-xZgrd2 {
+  background-color: var(--navy-blue);
+  border-radius: 4px;
+  height: 22px;
+  left: 686px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+
+.pop-up-candidature-l-annonce-maquette .envoye-QGr4oE {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-4C2joI {
+  background-color: transparent;
+  height: 17px;
+  left: 12px;
+  position: absolute;
+  top: 42px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .nom-de-lentreprise-rv6Gs1 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-58-E3qxZR {
+  background-color: transparent;
+  height: 25px;
+  left: 12px;
+  position: absolute;
+  top: 67px;
+  width: 747px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-MfDey8 {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 269px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-z3Yk4c {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-annonce-maquette .cdd-6-mois-ZggGf6 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-aDsTV4 {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 94px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-annonce-maquette .nantes-44-TWgrq6 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-B16lPx {
+  background-color: var(--user-interface-colorswhite);
+  border-radius: 4px;
+  height: 22px;
+  left: 187px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 82px;
+}
+
+.pop-up-candidature-l-annonce-maquette .il-y-a-2-jours-HL7UJD {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-3-pAPNzd {
+  background-color: var(--sun);
+  border-radius: 20px;
+  height: 25px;
+  left: 622px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 125px;
+}
+
+.pop-up-candidature-l-annonce-maquette .voir-le-dtail-h3qUMV {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-62-H6FmaB {
+  background-color: transparent;
+  height: 1px;
+  left: 73px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 786px;
+  width: 1px;
+}
+
+.pop-up-candidature-l-annonce-maquette .group-65-K7c9fD {
+  background-color: transparent;
+  height: 218px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 153px;
+}
+
+.pop-up-candidature-l-annonce-maquette .group-4-ETH8W6 {
+  background-color: transparent;
+  height: 163px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 153px;
+}
+
+.pop-up-candidature-l-annonce-maquette .rectangle-14-3gx2C2 {
+  background-color: var(--brand-colorbrand-primary);
+  height: 163px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.pop-up-candidature-l-annonce-maquette .rectangle-15-3gx2C2 {
+  background-color: var(--brand-colorbrand-primary);
+  height: 134px;
+  left: 51px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 51px;
+}
+
+.pop-up-candidature-l-annonce-maquette .rectangle-16-3gx2C2 {
+  background-color: var(--brand-colorbrand-primary);
+  height: 106px;
+  left: 102px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 57px;
+  width: 51px;
+}
+
+.pop-up-candidature-l-annonce-maquette .ellipse-9-ETH8W6 {
+  background-color: var(--brand-colorbrand-quinary);
+  border-radius: 25.47px;
+  height: 51px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.pop-up-candidature-l-annonce-maquette .ellipse-32-K7c9fD {
+  background-color: var(--mist-gray);
+  border-radius: 35.5px;
+  height: 71px;
+  left: 1184px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1073px;
+  width: 71px;
+}
+
+.pop-up-candidature-l-annonce-maquette .group-68-K7c9fD {
+  background-color: transparent;
+  height: 480px;
+  left: 1px;
+  position: absolute;
+  top: 511px;
+  width: 332px;
+}
+
+.pop-up-candidature-l-annonce-maquette .rectangle-38-5OIbct {
+  background-color: var(--brand-colorbrand-tertiary);
+  border-radius: 8px;
+  height: 480px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 328px;
+}
+
+.pop-up-candidature-l-annonce-maquette .envie-de-dcouvrir-un-nouveau-secteur-5OIbct {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 311px;
+  width: 262px;
+}
+
+.pop-up-candidature-l-annonce-maquette .ton-parcours-na-pas-5OIbct {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 377px;
+  width: 262px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-66-5OIbct {
+  background-color: transparent;
+  height: 25px;
+  left: 15px;
+  position: absolute;
+  top: 428px;
+  width: 131px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-4-0anyhe {
+  background-color: var(--sun);
+  border-radius: 20px;
+  height: 25px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 131px;
+}
+
+.pop-up-candidature-l-annonce-maquette .je-me-lance-ZZ3BWA {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .group-46-5OIbct {
+  background-color: transparent;
+  height: 1px;
+  left: 164px;
+  position: absolute;
+  top: 165px;
+  width: 1px;
+}
+
+.pop-up-candidature-l-annonce-maquette .rectangle-34-Wa0X4E {
+  background-color: var(--black-2);
+  height: 738px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1366px;
+}
+
+.pop-up-candidature-l-annonce-maquette .group-73-Wa0X4E {
+  background-color: transparent;
+  height: 630px;
+  left: 228px;
+  position: absolute;
+  top: 55px;
+  width: 909px;
+}
+
+.pop-up-candidature-l-annonce-maquette .rectangle-35-22Roxx {
+  background-color: var(--user-interface-colorswhite);
+  height: 629px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 909px;
+}
+
+.pop-up-candidature-l-annonce-maquette .group-67-22Roxx {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 911px;
+}
+
+.pop-up-candidature-l-annonce-maquette .rectangle-36-ifj1VK {
+  background-color: var(--brand-colorbrand-primary);
+  height: 56px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 909px;
+}
+
+.pop-up-candidature-l-annonce-maquette .close-ifj1VK {
+  background-color: transparent;
+  height: 20px;
+  left: 875px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 20px;
+}
+
+.pop-up-candidature-l-annonce-maquette .comptable-pour-nom-de-lentreprise-ifj1VK {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .rectangle-37-22Roxx {
+  background-color: var(--mist-gray);
+  border-radius: 10px;
+  height: 489px;
+  left: 895px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 69px;
+  width: 7px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-77-22Roxx {
+  background-color: transparent;
+  height: 553px;
+  left: 70px;
+  position: absolute;
+  top: 77px;
+  width: 770px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-75-XGNyCV {
+  background-color: transparent;
+  height: 27px;
+  left: 244px;
+  position: absolute;
+  top: 0px;
+  width: 282px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-68-mKXXbE {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 109px;
+}
+
+.pop-up-candidature-l-annonce-maquette .ma-candidature-xAUjGY {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-69-mKXXbE {
+  background-color: transparent;
+  height: 27px;
+  left: 125px;
+  position: absolute;
+  top: 0px;
+  width: 75px;
+}
+
+.pop-up-candidature-l-annonce-maquette .l-annonce-jAtXJ1 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .line-3-jAtXJ1 {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 26px;
+  width: 75px;
+}
+
+.pop-up-candidature-l-annonce-maquette .l-agence-mKXXbE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 216px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-76-XGNyCV {
+  background-color: transparent;
+  height: 504px;
+  left: 0px;
+  position: absolute;
+  top: 49px;
+  width: 770px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-73-YNeZDm {
+  background-color: #e1e1e180;
+  border-radius: 8px;
+  height: 176px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 770px;
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-71-tjAm0z {
+  background-color: transparent;
+  height: 136px;
+  left: 20px;
+  position: relative;
+  top: 20px;
+  width: 731px;
+}
+
+.pop-up-candidature-l-annonce-maquette .agence-randstad-sain-qHz0gP {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .span0-ATci0l {
+}
+
+.pop-up-candidature-l-annonce-maquette .span1-ATci0l {
+}
+
+.pop-up-candidature-l-annonce-maquette .span2-ATci0l {
+}
+
+.pop-up-candidature-l-annonce-maquette .span3-ATci0l {
+}
+
+.pop-up-candidature-l-annonce-maquette .span4-ATci0l {
+}
+
+.pop-up-candidature-l-annonce-maquette .span5-ATci0l {
+}
+
+.pop-up-candidature-l-annonce-maquette .line-6-qHz0gP {
+  background-color: transparent;
+  height: 136px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.pop-up-candidature-l-annonce-maquette .secteur-dactivit-tra-qHz0gP {
+  background-color: transparent;
+  height: auto;
+  left: 257px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pop-up-candidature-l-annonce-maquette .span0-aszClf {
+}
+
+.pop-up-candidature-l-annonce-maquette .span1-aszClf {
+}
+
+.pop-up-candidature-l-annonce-maquette .span2-aszClf {
+}
+
+.pop-up-candidature-l-annonce-maquette .span3-aszClf {
+}
+
+.pop-up-candidature-l-annonce-maquette .span4-aszClf {
+}
+
+.pop-up-candidature-l-annonce-maquette .span5-aszClf {
+}
+
+.pop-up-candidature-l-annonce-maquette .line-7-qHz0gP {
+  background-color: transparent;
+  height: 136px;
+  left: 493px;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.pop-up-candidature-l-annonce-maquette .type-de-contrat-intr-qHz0gP {
+  background-color: transparent;
+  height: auto;
+  left: 514px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 217px;
+}
+
+.pop-up-candidature-l-annonce-maquette .span0-AFXGT7 {
+}
+
+.pop-up-candidature-l-annonce-maquette .span1-AFXGT7 {
+}
+
+.pop-up-candidature-l-annonce-maquette .span2-AFXGT7 {
+}
+
+.pop-up-candidature-l-annonce-maquette .span3-AFXGT7 {
+}
+
+.pop-up-candidature-l-annonce-maquette .span4-AFXGT7 {
+}
+
+.pop-up-candidature-l-annonce-maquette .span5-AFXGT7 {
+}
+
+.pop-up-candidature-l-annonce-maquette .frame-74-YNeZDm {
+  background-color: transparent;
+  height: 312px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 192px;
+  width: 770px;
+}

@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "Tahoma-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Tahoma.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Tahoma-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Tahoma Bold.ttf") format("truetype");
+}
+
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/624f25979e009eb1e26597fa.624f259a2ea2087b7eeaf683.SjYZ2Xv.hcp.png");
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}

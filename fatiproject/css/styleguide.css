@@ -1,0 +1,232 @@
+:root { 
+  --black: #000000;
+  --black-2: #00000066;
+  --bon-jour: #e1e1e1;
+  --brand-colorbrand-primary: #2175d9;
+  --brand-colorbrand-quinary: #e74536;
+  --brand-colorbrand-secondary: #0f1941;
+  --brand-colorbrand-tertiary: #f7f5f0;
+  --cinnabar: #e7453633;
+  --concrete: #f3f3f380;
+  --eucalyptus: #257f5633;
+  --hint-of-red: #f9f9f9;
+  --mist-gray: #c4c4c4;
+  --navy-blue: #2175d9b2;
+  --navy-blue-2: #2175d933;
+  --sun: #fbb511;
+  --tangaroa: #0f1941b2;
+  --user-interface-colorsbrand-primary-tint-7: #ecf3fc;
+  --user-interface-colorsbrand-secondary-shade-180: #03050d;
+  --user-interface-colorsui-positive: #257f56;
+  --user-interface-colorswhite: #ffffff;
+ 
+  --font-size-l: 14px;
+  --font-size-m: 12px;
+  --font-size-s: 10px;
+  --font-size-xl: 16px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 28.3px;
+  --font-size-xxxxl: 32px;
+ 
+  --font-family-tahoma-bold: "Tahoma-Bold", Helvetica;
+  --font-family-tahoma-regular: "Tahoma-Regular", Helvetica;
+}
+.tahoma-regular-normal-jaguar-12px {
+  color: var(--user-interface-colorsbrand-secondary-shade-180);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tahoma-regular-normal-white-14px {
+  color: var(--user-interface-colorswhite);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tahoma-regular-normal-tangaroa-16px {
+  color: var(--brand-colorbrand-secondary);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tahoma-regular-normal-jaguar-14px {
+  color: var(--user-interface-colorsbrand-secondary-shade-180);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tahoma-bold-tangaroa-16px {
+  color: var(--brand-colorbrand-secondary);
+  font-family: var(--font-family-tahoma-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.tahoma-regular-normal-jaguar-16px {
+  color: var(--user-interface-colorsbrand-secondary-shade-180);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tahoma-bold-tangaroa-24px {
+  color: var(--brand-colorbrand-secondary);
+  font-family: var(--font-family-tahoma-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.tahoma-bold-sun-28-3px {
+  color: var(--sun);
+  font-family: var(--font-family-tahoma-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.tahoma-regular-normal-white-12px {
+  color: var(--user-interface-colorswhite);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tahoma-regular-normal-tangaroa-14px {
+  color: var(--brand-colorbrand-secondary);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tahoma-bold-tangaroa-14px {
+  color: var(--brand-colorbrand-secondary);
+  font-family: var(--font-family-tahoma-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.tahoma-regular-normal-tangaroa-10px {
+  color: var(--brand-colorbrand-secondary);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tahoma-bold-jaguar-16px {
+  color: var(--user-interface-colorsbrand-secondary-shade-180);
+  font-family: var(--font-family-tahoma-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.tahoma-bold-white-24px {
+  color: var(--user-interface-colorswhite);
+  font-family: var(--font-family-tahoma-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.tahoma-bold-white-14px {
+  color: var(--user-interface-colorswhite);
+  font-family: var(--font-family-tahoma-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.tahoma-regular-normal-eucalyptus-12px {
+  color: var(--user-interface-colorsui-positive);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tahoma-regular-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tahoma-bold-navy-blue-16px {
+  color: var(--brand-colorbrand-primary);
+  font-family: var(--font-family-tahoma-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.tahoma-bold-navy-blue-12px {
+  color: var(--brand-colorbrand-primary);
+  font-family: var(--font-family-tahoma-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.tahoma-regular-normal-jaguar-10px {
+  color: var(--user-interface-colorsbrand-secondary-shade-180);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tahoma-bold-sun-32px {
+  color: var(--sun);
+  font-family: var(--font-family-tahoma-bold);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.tahoma-regular-normal-cinnabar-12px {
+  color: var(--brand-colorbrand-quinary);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tahoma-regular-normal-navy-blue-12px {
+  color: var(--brand-colorbrand-primary);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tahoma-regular-normal-white-24px {
+  color: var(--user-interface-colorswhite);
+  font-family: var(--font-family-tahoma-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.border-1px-tangaroa {
+  border: 1px solid var(--tangaroa);
+}
+
+.border-2px-brand-colorbrand-primary {
+  border: 2px solid var(--brand-colorbrand-primary);
+}
